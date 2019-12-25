@@ -1,4 +1,4 @@
-# Anti-Theft Security App
+#    ![AntiTheft App](https://res.cloudinary.com/drxuibycz/image/upload/v1577270099/icon_c4j58v.ico)    Anti-Theft Security App 
 
 Anti-Theft Security App is a phone security app with GPS tracking. This
 application has registration module where user can register themselves using their name, phone number, email id, and password.
