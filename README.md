@@ -1,87 +1,31 @@
-# Project Title
+# Anti-Theft Security App
 
-One Paragraph of project description goes here
+Anti-Theft Security App is a phone security app with GPS tracking. This
+application has registration module where user can register themselves using their name, phone number, email id, and password.
 
-## Getting Started
+## Features
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Registration of user and get phone location through website
+* Get image from hidden camera inside the app
+* Register through App and login through website to get phone details like IMEI number, model name
+* Send SMS to alternate number
+* Image captured is uploaded to online server and details are also stored in online database
 
-### Prerequisites
+## Permissions
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployments
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Location
+* Camera permission 
+* Permission to send SMS
+* Write data to external storage
+* Read phone state
 
 ## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please make sure to update tests as appropriate.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+## Resources
+* [Geo-Location APIs](https://cloud.google.com/maps-platform/)
+* [Sending SMS - Android](http://www.tutorialspoint.com/android/android_sending_sms.htm)
+* [JSON Libraries](https://www.tutorialspoint.com/json/json_syntax.htm)
+* [Content Providers](https://developer.android.com/guide/topics/providers/content-providers.html)
