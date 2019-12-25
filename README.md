@@ -20,7 +20,7 @@ application has registration module where user can register themselves using the
 * Read phone state
 
 ## Contributers
-* Harnirvair Singh (@harnirvair[https://github.com/harnirvair])
+* Harnirvair Singh ([@harnirvair](https://github.com/harnirvair))
 * Inderpreet Singh
 * Prateek Gaur
 * Vikas
