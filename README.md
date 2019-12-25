@@ -19,10 +19,11 @@ application has registration module where user can register themselves using the
 * Write data to external storage
 * Read phone state
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## Contributers
+* Harnirvair Singh (@harnirvair[https://github.com/harnirvair])
+* Inderpreet Singh
+* Prateek Gaur
+* Vikas
 
 ## Resources
 * [Geo-Location APIs](https://cloud.google.com/maps-platform/)
